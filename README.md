@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning D.S.A
 
 - 💞️ I’m looking to collaborate on --->
-- - Web development projects (React, Angular, Vue.js)
+- Web development projects (React, Angular, Vue.js)
 - Machine Learning and AI projects (TensorFlow, PyTorch)
 - Cybersecurity research and projects
 - Open-source projects (contributing to existing projects or starting new ones)
