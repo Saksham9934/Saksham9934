@@ -1,12 +1,10 @@
-# 🌊 Header Banner
+<!-- ============================ HEADER ============================ -->
 
-```html
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a11cb,100:2575fc&text=Saksham%20Jha&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Computer%20Science%20Engineering%20Student&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a11cb,100:2575fc&text=Saksham%20Jha&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Computer%20Science%20Engineering%20Student&descAlignY=60" alt="Header Banner"/>
 
 </div>
-```
 
 # 👋 Introduction
 
