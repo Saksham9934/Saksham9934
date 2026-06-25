@@ -14,12 +14,6 @@
 🚀 Full Stack Developer | MERN Stack Enthusiast | AI & Machine Learning Explorer
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Developer;Artificial+Intelligence+Enthusiast;Computer+Science+Engineering+Student;AIR+206+IPU+LEET+2025;Always+Learning+New+Technologies+🚀"/>
-</p>
-
----
-
 # 🏅 Achievements
 
 <p align="center">
