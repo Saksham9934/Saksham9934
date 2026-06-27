@@ -479,120 +479,24 @@ A digital library website developed during an internship for browsing and organi
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saksham9934&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Saksham9934&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham9934&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 # 📈 GitHub Activity Graph
 
-<div align="center">
-
-[![Saksham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saksham9934&theme=tokyo-night&hide_border=true)](https://github.com/Saksham9934)
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Saksham9934/Saksham9934/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
-> **Note:** Create a GitHub Action to generate the snake animation automatically.
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Saksham9934&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4)
-
-</div>
-
----
-
-# 📈 Contribution Stats
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Saksham9934&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
-# 🔥 Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saksham9934&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saksham9934&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saksham9934&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📅 GitHub Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/Saksham9934" alt="GitHub Calendar"/>
-
-</div>
-
----
-
-# 💡 Random Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# ☕ Support My Work
-
-<div align="center">
-
-<a href="https://github.com/Saksham9934">
-<img src="https://img.shields.io/badge/⭐%20Star%20My%20Repositories-yellow?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Saksham9934?tab=followers">
-<img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 👀 Visitor Count
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Saksham9934&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for Visiting My Profile! ⭐
-
-### 💙 "Code • Learn • Build • Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-
-</div>
-```
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saksham9934&theme=tokyo-night)](https://github.com/Saksham9934)
