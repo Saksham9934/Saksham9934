@@ -1,11 +1,12 @@
-```markdown
 <!-- ============================ HEADER ============================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a11cb,100:2575fc&text=Saksham%20Jha&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Computer%20Science%20Engineering%20Student&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a11cb,100:2575fc&text=Saksham%20Jha&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Computer%20Science%20Engineering%20Student&descAlignY=60" alt="Header Banner"/>
 
 </div>
+
+# 👋 Introduction
 
 <h1 align="center">Hi 👋, I'm Saksham Jha</h1>
 
@@ -13,97 +14,92 @@
 🚀 Full Stack Developer | MERN Stack Enthusiast | AI & Machine Learning Explorer
 </h3>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+C%2B%2B;Open+Source+Learner;Always+Learning+New+Technologies"/>
-
-</div>
-
----
-
 # 🏅 Achievements
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AIR-206-blue?style=for-the-badge&logo=trophy&logoColor=white"/>
+<img src="https://img.shields.io/badge/AIR-206-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/IPU%20LEET-2025-success?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPU%20LEET-2025-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MSIT-B.Tech%20CSE-red?style=for-the-badge&logo=graduationcap&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSIT-B.Tech%20CSE-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/4%2B-Internships-orange?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-Developer-brightgreen?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Certified-purple?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Saksham9934&label=Profile%20Views&style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/badge/MERN%20Stack-Developer-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-DSA-blueviolet?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Learner-black?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://komarev.com/ghpvc/?username=Saksham9934&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/Saksham9934?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/Saksham9934?logo=github&style=for-the-badge"/>
 
 </p>
-
-### 🏆 Highlights
-
-- 🥇 AIR **206** in **IPU LEET 2025**
-- 🎓 Pursuing **B.Tech in Computer Science Engineering** at **Maharaja Surajmal Institute (MSIT), GGSIPU**
-- 💼 Completed **4+ Internships** in AI/ML, Python Development, Full Stack Development & Professional Skills
-- 🤖 AI & Machine Learning Certified from **NSUT**
-- 🌐 Built multiple Full Stack Projects using the **MERN Stack**
-- 💻 Strong foundation in **Java, Python, C++, DSA, DBMS & Web Development**
-- 🚀 Passionate about Open Source, Competitive Programming & Modern Technologies
 
 ---
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+```yaml
+Name: Saksham Jha
 
-✨ B.Tech CSE Student at **Maharaja Surajmal Institute (MSIT), GGSIPU**
+Location: Delhi, India 🇮🇳
 
-🚀 Passionate about solving real-world problems using technology.
+Education:
+  • B.Tech Computer Science & Engineering (MSIT)
+  • Diploma in Computer Engineering
 
-💻 Currently learning **Full Stack MERN Development**
+Rank:
+  • AIR 206 - IPU LEET 2025
 
-🤖 Exploring **Artificial Intelligence & Machine Learning**
+Current Focus:
+  • Full Stack Development
+  • Artificial Intelligence
+  • Machine Learning
+  • Open Source
 
-📚 Strong interest in **Data Structures & Algorithms**
+Learning:
+  • React.js
+  • Next.js
+  • Node.js
+  • Express.js
+  • MongoDB
+  • TypeScript
+  • AWS
+  • DevOps
 
-🌱 Improving my skills in **React.js, Node.js, Express.js, MongoDB & System Design**
+Currently Building:
+  • MERN Stack Applications
+  • AI Projects
+  • REST APIs
+  • Authentication Systems
 
-🏆 Completed internships in:
+Email:
+  • sakshamjha3027@gmail.com
+```
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python Development
-- 💼 Advanced IT & Professional Skills
-- 🌐 Full Stack Development
+---
 
-🚀 Projects I've built:
+## 🚀 Current Goals
 
-- 📚 Book Store MERN Application
-- 📝 Quiz App
-- 🌐 Portfolio Website
-- 📦 Inventory Management System
-- ✍️ TextMaster
-- ✅ To-Do Application
-- 🎮 Rock Paper Scissors Game
-- 📖 E-Book Library Website
+* 🔭 Building real-world MERN Stack projects
+* 🌱 Learning System Design & Cloud Computing
+* 🤝 Contributing to Open Source
+* 💼 Preparing for Software Development roles
+* 📚 Improving Data Structures & Algorithms
+* 🚀 Exploring AI & Machine Learning
 
-💬 **Ask me about**
+---
 
-- MERN Stack
-- Java
-- Python
-- C++
-- DSA
-- DBMS
-- Frontend Development
+## 💡 Quote
 
-📫 **Email:** **sakshamjha3027@gmail.com**
+> **"The best way to predict the future is to build it."** 🚀
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,c,cpp,git,github,vscode,postman,firebase,figma,aws,docker&perline=8"/>
+
+</p>
 
 ---
 
@@ -111,392 +107,89 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Saksham9934" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="https://www.linkedin.com/in/saksham-jha-141623275" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="mailto:sakshamjha3027@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://x.com/SAKSHAMJHA197" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
+</a>
+
+<a href="https://t.me/Saksham77282" target="_blank">
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="50"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61563999322121" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="50"/>
 </a>
 
 </p>
 
-<p align="center">
-
-⭐ **"Code • Learn • Build • Repeat."**
-
-</p>
-
----
-```
-```markdown
-<!-- ============================ TECH STACK ============================ -->
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
-
-</p>
-
 ---
 
-## 🌐 Frontend Development
+# 💼 Professional Experience
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite,nextjs" />
-
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-
-</p>
-
----
-
-## 🗄️ Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</p>
-
----
-
-## 🛠️ Developer Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,npm" />
-
-</p>
-
----
-
-# 🚀 Core Skills
-
-<table align="center">
-
-<tr>
-<td>
-
-### 💻 Programming
-
-- Java
-- Python
-- C
-- C++
-- JavaScript
-
-</td>
-
-<td>
-
-### 🌐 Web Development
-
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📚 Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management System
-- Operating System
-- Computer Networks
-
-</td>
-
-<td>
-
-### 🚀 Professional Skills
-
-- Problem Solving
-- Team Collaboration
-- Communication
-- Leadership
-- Time Management
-
-</td>
-</tr>
-
-</table>
+| Position                                    | Organization             | Duration |
+| ------------------------------------------- | ------------------------ | -------- |
+| 💻 Full Stack Development Intern            | StapLab                  | 2026     |
+| 🤖 AI & Machine Learning Intern             | NSUT                     | 2024     |
+| 🐍 Python Development Intern                | Upskill Campus           | 2024     |
+| 🌐 Advanced IT & Professional Skills Intern | Tech Mahindra Foundation | 2024     |
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 📚 Book Store (MERN)
-
-A modern online bookstore built using the MERN Stack with authentication, responsive UI, and dynamic book management.
-
-### 🔥 Tech Used
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Tailwind CSS
-
-</td>
-
-<td width="50%">
-
-## 📝 Quiz App
-
-An interactive quiz platform featuring score calculation, timers, and dynamic question handling.
-
-### 🔥 Tech Used
-
-- HTML
-- CSS
-- JavaScript
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🌐 Portfolio Website
-
-A fully responsive portfolio showcasing projects, skills, certifications, and achievements.
-
-### 🔥 Tech Used
-
-- HTML
-- CSS
-- JavaScript
-- React.js
-
-</td>
-
-<td width="50%">
-
-## 📦 Inventory Management System
-
-A responsive inventory dashboard for managing products, stock, and records efficiently.
-
-### 🔥 Tech Used
-
-- HTML
-- CSS
-- JavaScript
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## ✍️ TextMaster
-
-A text utility web application with text formatting, conversion, and analysis tools.
-
-### 🔥 Tech Used
-
-- HTML
-- CSS
-- JavaScript
-
-</td>
-
-<td width="50%">
-
-## ✅ To-Do Application
-
-A task management application supporting CRUD operations with a clean and responsive interface.
-
-### 🔥 Tech Used
-
-- HTML
-- CSS
-- JavaScript
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🎮 Rock Paper Scissors
-
-A fun browser game implementing JavaScript logic and interactive UI.
-
-### 🔥 Tech Used
-
-- HTML
-- CSS
-- JavaScript
-
-</td>
-
-<td width="50%">
-
-## 📖 E-Book Library
-
-A digital library website developed during an internship for browsing and organizing books.
-
-### 🔥 Tech Used
-
-- HTML
-- CSS
-
-</td>
-
-</tr>
-
-</table>
+| Project                            | Technology         | Description                                           |
+| ---------------------------------- | ------------------ | ----------------------------------------------------- |
+| 🧠 Skin Cancer Detection using CNN | Python, TensorFlow | Deep learning model for skin cancer classification.   |
+| 🎯 YOLOv8 Skin Cancer Detection    | YOLOv8, OpenCV     | Object detection and classification using YOLOv8.     |
+| 🌐 MERN Stack Web Applications     | MERN Stack         | Full-stack applications with authentication and CRUD. |
+| 💼 Portfolio Website               | React.js           | Responsive portfolio showcasing skills and projects.  |
+| 📚 Library Management System       | Python, MySQL      | Database-driven management system.                    |
+| 🏥 Hospital Management System      | Python, DBMS       | Hospital administration project.                      |
 
 ---
 
 # 📜 Certifications
 
-🏆 Artificial Intelligence & Machine Learning – NSUT
-
-🏆 Python Development Internship
-
-🏆 Advanced IT & Professional Skills
-
-🏆 Full Stack Development Internship
-
-🏆 Web Development Projects
+* 🏅 Full Stack Development Internship – StapLab
+* 🏅 Artificial Intelligence & Machine Learning – NSUT
+* 🏅 Python Development – Upskill Campus
+* 🏅 Advanced IT & Professional Skills – Tech Mahindra Foundation
+* 🏅 React.js Development
+* 🏅 Database Management Systems (DBMS)
+* 🏅 Data Structures & Algorithms (Learning)
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 Areas of Interest
 
-- ⚛️ Advanced React.js
-- 🌐 Full Stack MERN Development
-- ☁️ Cloud Computing
-- 🧠 Artificial Intelligence
-- 🤖 Machine Learning
-- ⚡ System Design
-- 🏗️ Backend Architecture
+* 🌐 Full Stack Web Development
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* ☁️ Cloud Computing
+* 🔐 Cyber Security
+* 📱 Responsive Web Development
+* 📊 Data Structures & Algorithms
+* 🚀 Open Source Contributions
+
+---
+````md
+# 📌 Current Focus
+
+* 🚀 Building Full Stack MERN Applications
+* 🌱 Learning Next.js & TypeScript
+* ☁️ Exploring AWS Cloud Services
+* 🤖 Working on AI & Machine Learning Projects
+* 📚 Solving Data Structures & Algorithms Problems
+* 💼 Preparing for Software Development Roles
 
 ---
 
-# 💡 Interests
-
-💻 Full Stack Development
-
-🤖 Artificial Intelligence
-
-📱 Responsive Web Design
-
-☁️ Cloud Computing
-
-📊 Data Structures & Algorithms
-
-🚀 Open Source Contributions
-
-🎯 Competitive Programming
-
-📚 Continuous Learning
-
----
 ```
-```markdown
-<!-- ============================ GITHUB STATS ============================ -->
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saksham9934&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham9934&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham9934&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saksham9934&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Saksham9934&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham9934&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saksham9934&theme=tokyo-night)](https://github.com/Saksham9934)
+```
