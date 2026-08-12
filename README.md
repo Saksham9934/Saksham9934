@@ -62,7 +62,6 @@ Learning:
   • MongoDB
   • TypeScript
   • AWS
-  • DevOps
 
 Currently Building:
   • MERN Stack Applications
